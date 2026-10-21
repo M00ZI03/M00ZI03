@@ -2,7 +2,7 @@
   
 # Hi there 👋
 <div align="center">
-  <img src="https://giphy.com/gifs/no-wtf-black-VkpfO6W4D7yB7vSjXy" width="600" alt="WELCOME">
+  <img src="https://media.giphy.com/media/VkpfO6W4D7yB7vSjXy/giphy.gif" width="600" alt="WELCOME">
 </div>
 # 💫 About Me:
 IT graduate with a cybersecurity focus. I build and break things in a lab,<br>run my own self-hosted systems, and document everything so it's easy to follow.<br>
