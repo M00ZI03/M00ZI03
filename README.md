@@ -4,12 +4,12 @@
 
 <div align="center">  
   
-<img width="312" height="234" alt="Erase Will Smith GIF" src="https://github.com/user-attachments/assets/58f73cba-a66e-4d50-98ac-fbd3febee42f" />
+<img width="312" height="234" alt="Erase Will Smith GIF" src="https://github.com/user-attachments/assets/58f73cba-a66e-4d50-98ac-fbd3febee42f" alt=WELCOME/>
 
 </div>
 
 
-# 💫 About Me:
+# About Me:
 IT graduate with a cybersecurity focus. I build and break things in a lab,<br>run my own self-hosted systems, and document everything so it's easy to follow.<br>
 
 
