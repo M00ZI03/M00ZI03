@@ -2,8 +2,11 @@
   
 # Hi there 👋
 
+<div align="center">  
+  
+<img width="312" height="234" alt="Erase Will Smith GIF" src="https://github.com/user-attachments/assets/58f73cba-a66e-4d50-98ac-fbd3febee42f" />
 
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZraDRtZXV3Zmg1YmlnMnNibXQ2c21hdWI3bTBlYjY4aDFrczEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ojn1S7BTXUry8elNi/giphy.gif" width="600" alt="WELCOME">
+</div>
 
 
 # 💫 About Me:
