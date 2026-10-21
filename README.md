@@ -1,6 +1,7 @@
 <div align="center">
 ##Hi there 👋
-#💫 About Me:
+  
+##💫 About Me:
 IT graduate with a cybersecurity focus. I build and break things in a lab,<br>run my own self-hosted systems, and document everything so it's easy to follow.<br>
 
 
