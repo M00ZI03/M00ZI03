@@ -1,9 +1,10 @@
 <div align="center">
   
 # Hi there 👋
-<div align="center"> 
+
+
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZraDRtZXV3Zmg1YmlnMnNibXQ2c21hdWI3bTBlYjY4aDFrczEydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ojn1S7BTXUry8elNi/giphy.gif" width="600" alt="WELCOME">
-</div>
+
 
 # 💫 About Me:
 IT graduate with a cybersecurity focus. I build and break things in a lab,<br>run my own self-hosted systems, and document everything so it's easy to follow.<br>
