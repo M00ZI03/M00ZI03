@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdqNW1kMzFtdGNmMzVqcjhic2pjbDlja21ianl0dmZrbHBmM2ZrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VkpfO6W4D7yB7vSjXy/giphy.gif" width="600" alt="WELCOME">
 </div>
+
 # 💫 About Me:
 IT graduate with a cybersecurity focus. I build and break things in a lab,<br>run my own self-hosted systems, and document everything so it's easy to follow.<br>
 
