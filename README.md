@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there 👋
-  
+  https://giphy.com/gifs/no-wtf-black-VkpfO6W4D7yB7vSjXy
 # 💫 About Me:
 IT graduate with a cybersecurity focus. I build and break things in a lab,<br>run my own self-hosted systems, and document everything so it's easy to follow.<br>
 
